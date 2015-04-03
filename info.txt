@@ -1,0 +1,39 @@
+
+
+Name:
+	SocialShare - Facebook Comments
+	Extension Key : SocialShareFacebookComments 
+
+	
+
+Brief Description:
+	Add Open facebook Comments To Your Magento Store
+	
+Detail Description:
+	Facebook Comments
+
+	Let your buyers Comment on your products and imediatly have those comments published on facebook with a link to your product page
+		
+		
+	<h2>Instructions:</h2>
+
+	* First Install The Free Extension SocialShare-OpenGraph From <a href="http://www.magentocommerce.com/magento-connect/catalog/product/view/id/14560/s/socialshare-open-graph-3111/">http://www.magentocommerce.com/magento-connect/catalog/product/view/id/14560/s/socialshare-open-graph-3111/</a>
+	
+	<li>1. Install the Extention</li>
+	<li>2. Clear Cache, log out and back in</li>
+	<li>3. Navigate to System -> Configuration -> Social Share -> Facebook Comments</li>
+	<li>4. Configure your comment Box and select the position to show it on</li>
+	<li>5. Enjoy it and feel free to leave feedback</li>
+	BTW, you can change the buttons width by adding css ruls
+		
+		
+	Live Demo on <a href="http://www.virtual-brick.com/store/socialshare-facebook-comments.html">http://www.virtual-brick.com/store/socialshare-facebook-comments.html</a>
+
+		
+Custom Themes:
+
+If you are using a theme whish is not based on the default theme and Facebook comments doesn't show you need to copy this folder
+app/design/frontend/default/default/template/socialshare
+and this file
+app/design/frontend/default/default/layout/FacebookComments.xml
+to your theme to fix that

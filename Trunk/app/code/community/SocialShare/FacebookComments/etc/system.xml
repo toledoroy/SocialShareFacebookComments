@@ -7,7 +7,7 @@
         </socialshare>
     </tabs>
     <sections>
-          <facebookcomments translate="label" module="opengraphtags">
+          <facebookcomments translate="label" module="facebookcomments">
             <label>Facebook Comments</label>
             <tab>socialshare</tab>
             <frontend_type>text</frontend_type>
